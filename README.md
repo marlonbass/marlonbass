@@ -1,11 +1,9 @@
 Seja bem vindo ao meu perfil! 👋
 
 - 🔭 Desenvolver para Desktop, Web e Mobile.
-- 💬 Contato: por e-mail ou linkedin.
-
-
+- 💬 Para contato, clique em um dos atalhos abaixo e vamos conversar!
+- 
 <!--
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -16,4 +14,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
