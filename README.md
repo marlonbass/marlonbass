@@ -1,7 +1,10 @@
-### Hi there 👋
+Seja bem vindo ao meu perfil! 👋
+
+- 🔭 Desenvolver para Desktop, Web e Mobile.
+- 💬 Contato: por e-mail ou linkedin.
+
 
 <!--
-**marlonbass/marlonbass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
